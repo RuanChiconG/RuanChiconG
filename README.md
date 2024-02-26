@@ -1,4 +1,4 @@
-# ruanchiconportfolio
+# RuanChiconG
 <h1 align="center">Olá 👋, eu sou Ruan Chicon</h1>
 <h3 align="center">Atualmente me especializando em desenvolvimento frontend</h3>
 

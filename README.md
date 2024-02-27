@@ -4,11 +4,11 @@
 
 - 🌱 Atualmente estou aprendendo **React e Typescript**
 
-- 💬 Me pergunte sobre **HTML, CSS**
-
-- 📫 Pode me entrar em contato por: **ruancg.1@gmail.com**
+- 📫 Entre em contato por: **ruancg.1@gmail.com**
 
 - 📄 Pode saber mais sobre mim e minhas competências no meu [LinkedIn](https://www.linkedin.com/in/ruan-chicon-gubasta-8645b1190/)
+
+- 🖥️ Aqui você pode analizar meus projetos [Vercel](https://vercel.com/ruan-chicons-projects)
 
 <p align="left">
 </p>
